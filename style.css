@@ -1,0 +1,30 @@
+h1 {
+    color: rgb(41, 22, 255);
+ }
+  
+  
+  
+ .header{
+    background-color: turquoise;
+    display: flex;
+    justify-content: space-between ;
+ }
+  
+  
+ .grid{
+    background-color: rgb(136, 255, 96);
+    display: flex;
+ justify-content: space-evenly;
+ flex-wrap: wrap;
+ }
+  
+  
+ h2,p{
+  text-align: center; 
+ }
+  
+ img{
+    border:solid;
+    border-radius: 50px;
+ }
+ 
